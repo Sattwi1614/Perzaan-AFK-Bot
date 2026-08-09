@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Sattwik",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "Bhai_smp.aternos.me",
     "port": 92591,
     "version": "1.21.1"
   },
@@ -18,8 +18,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "Perzuu"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
